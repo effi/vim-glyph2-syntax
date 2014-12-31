@@ -1,4 +1,9 @@
-vim-glyph2-syntax-highlighting
+vim-glyph2-syntax
 ==============================
 
-A simple wrapper for Pointwise-Glyph2 Syntax Highlighting
+This is currently a simply wrapper to turn on 
+TCL-Syntax-Highlighting for Pointswise Glyph2
+Files. Maybe Support for Glyph2 keywords will
+be added in the future.
+
+
